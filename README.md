@@ -1,16 +1,15 @@
-## Hi there 👋
+  ### Boas vindas ao meu perfil💙
 
-<!--
-**MatheusFe45/MatheusFe45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ -Meu nome é Matheus
+ -Estou estudando no [Alura] (https://www.alura.com.br)
+ -Estou me desenvolvendo na linguagem Javascript
+ -Utilizo este espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ ### Você entra em contato comigo📫
+
+ 00001104653680SP@al.educacao.sp.gov.br
+
+ ![naruto 1](https://github.com/user-attachments/assets/938b69de-1df9-4552-a15d-82c46428a21e)
+
